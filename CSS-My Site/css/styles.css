@@ -1,0 +1,89 @@
+a{
+color: #11999E
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+background-image: url(https://media.giphy.com/media/3ohhwmGtLE6WyYPOQU/giphy.gif);
+}
+
+.bottom-cloud {
+position: absolute;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family:'Lilita One','Sacramento', cursive;
+  font-size: 5.625em;
+  color: #66BFBF;
+
+
+
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    line-height: 5rem;
+
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color:#11999E;
+
+}
+
+.skill-row {
+width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.compgif {
+  margin-right: 30px;
+  width: 25%;
+    float: left;
+}
+
+
+
+.emojigif {
+  margin-left: 30px;
+  width: 25%;
+  float: right;
+}
+
+
+span {
+  font-weight: normal;
+}
+
+
+.top-cloud {
+position: absolute;
+right: 325px;
+top: 50px;
+
+
+}
+
+.top-container {
+
+  /*background-color: lightblue;*/
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
